@@ -11,3 +11,6 @@
 #endif
 
 
+FOUNDATION_EXPORT double SGMUIVersionNumber;
+FOUNDATION_EXPORT const unsigned char SGMUIVersionString[];
+
