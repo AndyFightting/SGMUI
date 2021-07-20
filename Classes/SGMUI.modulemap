@@ -1,0 +1,6 @@
+framework module SGMUI {
+  umbrella header "SGMUI-umbrella.h"
+
+  export *
+  module * { export * }
+}
